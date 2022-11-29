@@ -27,4 +27,9 @@
         android:name="com.example.myfoodapp.ui.MyCartFragment"
         android:label="My Cart"
         tools:layout="@layout/fragment_my_cart" />
+    <fragment
+        android:id="@+id/nav_order"
+        android:name="com.example.myfoodapp.ui.OrderFragment"
+        android:label="My Order"
+        tools:layout="@layout/fragment_order" />
 </navigation>
